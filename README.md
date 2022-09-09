@@ -1,3 +1,9 @@
+#To Use The App
+You need to create a file that holds your API strings with your OpenWeather API key and base URL, mine is:
+export const BASE_URL = `https://api.openweathermap.org/data/2.5`;
+export const API_KEY = `< your api key >`;
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
